@@ -1,0 +1,56 @@
+[2021-12-03 09:52:04,485][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-03 09:52:07,175][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="3bc23d452b3334df0a987c8b41cd1d07")>] successed !
+[2021-12-03 09:52:07,208][base_page.py 144][ERROR]: 查找元素超时:remind_switch
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\base_page.py", line 123, in find_element
+    EC.visibility_of(self.driver.find_element_by_class_name(value)))
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 760, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1244, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".remind_switch"}
+  (Session info: chrome=95.0.4638.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00A13AB3+2505395]
+	Ordinal0 [0x009AAE41+2076225]
+	Ordinal0 [0x008B2498+1057944]
+	Ordinal0 [0x008DCB74+1231732]
+	Ordinal0 [0x00906D92+1404306]
+	Ordinal0 [0x008F5A2A+1333802]
+	Ordinal0 [0x00905168+1397096]
+	Ordinal0 [0x008F58BB+1333435]
+	Ordinal0 [0x008D23E4+1188836]
+	Ordinal0 [0x008D323F+1192511]
+	GetHandleVerifier [0x00B9CB36+1554566]
+	GetHandleVerifier [0x00C44A0C+2242396]
+	GetHandleVerifier [0x00AA0E0B+523099]
+	GetHandleVerifier [0x00A9FEB0+519168]
+	Ordinal0 [0x009B02FD+2097917]
+	Ordinal0 [0x009B4388+2114440]
+	Ordinal0 [0x009B44C2+2114754]
+	Ordinal0 [0x009BE041+2154561]
+	BaseThreadInitThunk [0x7543FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x775C7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x775C7A6E+238]
+
+[2021-12-03 09:52:43,586][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-03 09:52:46,999][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="d56e094c0a335e5edb5f085ac87ae2fe")>] successed !
+[2021-12-03 09:52:47,003][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-03 09:52:53,629][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-03 09:52:56,332][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-03 09:52:59,341][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-03 09:53:00,796][automatic_evaluation_page.py 43][INFO]: 中差评提醒
+[2021-12-03 09:53:01,206][automatic_evaluation_page.py 103][INFO]: 中差评提醒成功开启
+[2021-12-03 12:18:41,353][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-03 12:18:44,725][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9c7733933abf6151cc17e3a585eb7271")>] successed !
+[2021-12-03 12:18:44,726][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-03 12:18:51,382][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-03 12:18:53,990][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-03 12:18:56,992][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-03 12:18:57,455][base_page.py 249][INFO]: 点击元素成功synchro
+[2021-12-03 12:19:06,605][base_page.py 249][INFO]: 点击元素成功synchro

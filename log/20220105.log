@@ -1,0 +1,61 @@
+[2022-01-05 10:42:09,289][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2022-01-05 10:42:12,665][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1a82820d8252818cf517be8fa8fec9db")>] successed !
+[2022-01-05 10:42:12,666][read_config.py 55][INFO]: 获取到ini文件数据
+[2022-01-05 10:42:16,683][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2022-01-05 10:42:16,692][base_page.py 55][INFO]: https://qimg2.xyy001.com/qnjymp/v0.0.33/main/index.html?token=%7EUwAIBANSBQBfVQBWHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHwNSWEBSSlUUFVVXAwYDAw9RAVFWD10EY2gHVA8AXlJRXARSA1VRXF0NAAAFBgJVXwUKAVoNAlQKAw9XAwNWWwRRAQcG%7E1%7E#/v5/account/myAccount#/v5/rateManage 正常打开url
+[2022-01-05 10:42:19,694][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2022-01-05 10:47:59,388][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2022-01-05 10:48:01,689][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="83c4159610417b8acc5d5cc9bd74075b")>] successed !
+[2022-01-05 10:48:01,690][read_config.py 55][INFO]: 获取到ini文件数据
+[2022-01-05 10:48:05,480][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2022-01-05 10:48:05,569][base_page.py 55][INFO]: https://qimg2.xyy001.com/qnjymp/v0.0.33/main/index.html?token=%7EUwAIBANSBQBfVQBWHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHwNSWEBSSlUUFVVXAwYDAw9RAVFWD10EY2gHVA8AXlJRXARSA1VRXF0NAAAFBgJVXwUKAVoNAlQKAw9XAwNWWwRRAQcG%7E1%7E#/v5/account/myAccount#/v5/rateManage 正常打开url
+[2022-01-05 10:48:08,574][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2022-01-05 10:48:11,632][base_page.py 144][ERROR]: 查找元素超时:remind_switch
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\base_page.py", line 123, in find_element
+    EC.visibility_of(self.driver.find_element_by_class_name(value)))
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 760, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1244, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".remind_switch"}
+  (Session info: chrome=95.0.4638.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00613AB3+2505395]
+	Ordinal0 [0x005AAE41+2076225]
+	Ordinal0 [0x004B2498+1057944]
+	Ordinal0 [0x004DCB74+1231732]
+	Ordinal0 [0x00506D92+1404306]
+	Ordinal0 [0x004F5A2A+1333802]
+	Ordinal0 [0x00505168+1397096]
+	Ordinal0 [0x004F58BB+1333435]
+	Ordinal0 [0x004D23E4+1188836]
+	Ordinal0 [0x004D323F+1192511]
+	GetHandleVerifier [0x0079CB36+1554566]
+	GetHandleVerifier [0x00844A0C+2242396]
+	GetHandleVerifier [0x006A0E0B+523099]
+	GetHandleVerifier [0x0069FEB0+519168]
+	Ordinal0 [0x005B02FD+2097917]
+	Ordinal0 [0x005B4388+2114440]
+	Ordinal0 [0x005B44C2+2114754]
+	Ordinal0 [0x005BE041+2154561]
+	BaseThreadInitThunk [0x76EBFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77677A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77677A6E+238]
+
+[2022-01-05 10:53:59,111][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2022-01-05 10:54:01,425][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="bc4a0612596f0c323e67d28209fb4bad")>] successed !
+[2022-01-05 10:54:01,426][read_config.py 55][INFO]: 获取到ini文件数据
+[2022-01-05 10:54:05,001][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2022-01-05 10:54:05,335][base_page.py 55][INFO]: https://qimg2.xyy001.com/qnjymp/v0.0.33/main/index.html?token=%7EUwAIBANSBQBfVQBWHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHwNSWEBSSlUUFVVXAwYDAw9RAVFWD10EY2gHVA8AXlJRXARSA1VRXF0NAAAFBgJVXwUKAVoNAlQKAw9XAwNWWwRRAQcG%7E1%7E#/v5/account/myAccount#/v5/rateManage 正常打开url
+[2022-01-05 10:54:08,351][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2022-01-05 11:02:14,905][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2022-01-05 11:02:17,237][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2491b2288d5d54bfa94e397d46901b8d")>] successed !
+[2022-01-05 11:02:17,238][read_config.py 55][INFO]: 获取到ini文件数据
+[2022-01-05 11:02:17,969][base_page.py 41][INFO]: https://qimg2.xyy001.com/qnjymp/v0.0.33/main/index.html?token=%7EUwAIBANSBQBfVQBWHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHwNSWEBSSlUUFVVXAwYDAw9RAVFWD10EY2gHVA8AXlJRXARSA1VRXF0NAAAFBgJVXwUKAVoNAlQKAw9XAwNWWwRRAQcG%7E1%7E#/v5/account/myAccount#/v5/rateManage 正常打开url
+[2022-01-05 11:02:20,970][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作

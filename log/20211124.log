@@ -1,0 +1,24 @@
+[2021-11-24 12:05:39,620][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-24 12:05:39,621][Driver.py 30][ERROR]: ChromeDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\Driver.py", line 26, in run_driver
+    self.driver = webdriver.Chrome(service=s)
+TypeError: __init__() got an unexpected keyword argument 'service'
+[2021-11-24 12:10:01,234][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-24 12:10:01,235][Driver.py 30][ERROR]: ChromeDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\Driver.py", line 26, in run_driver
+    self.driver = webdriver.Chrome(service = s)
+TypeError: __init__() got an unexpected keyword argument 'service'
+[2021-11-24 12:20:41,984][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-24 12:20:44,530][Driver.py 34][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a3de2f15b3d5a5998bba531b4622f0e3")>] successed !
+[2021-11-24 12:24:18,404][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-24 12:24:20,294][Driver.py 34][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="108f8313b22e6626aa313724ba037256")>] successed !
+[2021-11-24 12:25:35,347][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-24 12:25:37,308][Driver.py 34][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="05bf0a3657bc9683d23d90ee94725106")>] successed !
+[2021-11-24 12:42:17,133][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-24 12:42:18,773][Driver.py 34][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ad45b2e33feac8c7135fc3159b6f12e3")>] successed !
+[2021-11-24 13:01:54,060][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-24 13:01:59,085][Driver.py 34][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2094b292b8e912aa7e1c530d6b482b89")>] successed !
+[2021-11-24 13:02:44,272][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-24 13:02:47,554][Driver.py 34][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9cbf34eb3609a20a61adcb2d17cf8caa")>] successed !

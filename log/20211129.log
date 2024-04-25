@@ -1,0 +1,24 @@
+[2021-11-29 16:57:07,928][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-29 16:57:10,550][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="fe4662aec7ed0b490747ac90832ecd78")>] successed !
+[2021-11-29 16:57:52,508][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-29 16:57:54,475][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="35aa8f5b0fb0b0e84f3de819ec366b40")>] successed !
+[2021-11-29 16:58:20,295][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-29 16:58:22,655][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="dfad10eb0a0e47117752735896b15943")>] successed !
+[2021-11-29 17:13:16,436][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-29 17:13:18,532][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="921840786d6901bfa3dc39f74b2742d5")>] successed !
+[2021-11-29 17:13:18,533][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-11-29 17:13:24,906][base_page.py 51][INFO]: Chrome浏览器没有设置cookie
+[2021-11-29 17:13:27,383][base_page.py 54][INFO]: https://localhost/main/index.html?~VwcIBARbBwNQWwFSHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJC1VWCwMEBQoFDx6HhMTVtKTR66fQ39JcHFYO1qbOVA4VVlUDBA4ECQYIAlJJNAELVgBSVFJTDUIqClZUYyMUSwARKlBuUHVLA2hkUn0jVGpVbQpCQCQGawkFXlFlMFdiYxAcCw0%253D~1~#/v5/rateManage 正常打开url
+[2021-11-29 17:13:30,398][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-11-29 17:14:28,571][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-29 17:14:31,317][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="45588f72e9a0d770901604995a461d66")>] successed !
+[2021-11-29 17:14:31,318][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-11-29 17:14:37,619][base_page.py 51][INFO]: Chrome浏览器没有设置cookie
+[2021-11-29 17:14:40,131][base_page.py 54][INFO]: https://localhost/main/index.html?~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-29 17:14:43,134][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-11-29 17:15:52,505][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-29 17:15:54,718][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="130187812bfc7f18484fd93998be4950")>] successed !
+[2021-11-29 17:15:54,719][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-11-29 17:16:02,149][base_page.py 51][INFO]: Chrome浏览器没有设置cookie
+[2021-11-29 17:16:04,585][base_page.py 54][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-29 17:16:07,599][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作

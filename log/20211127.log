@@ -1,0 +1,114 @@
+[2021-11-27 14:46:09,768][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 14:46:12,866][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c05986d11a2d9c97c1e6d1ebc757508a")>] successed !
+[2021-11-27 15:13:36,737][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:13:39,147][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2c622c57b8932be390b1d6089758dbc0")>] successed !
+[2021-11-27 15:13:41,737][base_page.py 49][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 15:13:44,740][close_popoup_page.py 37][INFO]: 没有找到弹窗进行后续操作
+[2021-11-27 15:15:03,380][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:15:05,708][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5a5d6d90af2bbcafe8883012a15b8fe7")>] successed !
+[2021-11-27 15:15:08,003][base_page.py 49][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 15:15:11,007][close_popoup_page.py 37][INFO]: 没有找到弹窗进行后续操作
+[2021-11-27 15:18:35,908][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:18:38,278][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="65f8f04a3836cbcbc5cbb308ff69af61")>] successed !
+[2021-11-27 15:19:58,680][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:20:01,099][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="bae26403201c45cef49954cc84df729a")>] successed !
+[2021-11-27 15:21:57,224][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:21:59,629][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2ef004cf6b3d7ad342cfb567c87e7124")>] successed !
+[2021-11-27 15:26:55,140][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:26:57,621][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="13e7cd1a8c4ddbf29d6d930e10a10a94")>] successed !
+[2021-11-27 15:27:39,922][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:27:42,389][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="26faf7a0e7427b08d0d32616eeabff5f")>] successed !
+[2021-11-27 15:28:01,052][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:28:03,486][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="407bf4e8f5157ad9c4e91bb4bcb37560")>] successed !
+[2021-11-27 15:29:01,873][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:29:04,077][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="36ef720a96426ad7bf38e9102858e0cd")>] successed !
+[2021-11-27 15:35:09,636][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:35:11,852][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5eef7403bfae05e7d883cee581233726")>] successed !
+[2021-11-27 15:36:04,278][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:36:06,514][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="631c12ee48278019f9f51eaf1a923737")>] successed !
+[2021-11-27 15:36:38,520][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:36:40,763][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="327c813f9529b10e5117fa1f7afe5630")>] successed !
+[2021-11-27 15:36:42,971][base_page.py 49][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 15:36:45,974][close_popoup_page.py 37][INFO]: 没有找到弹窗进行后续操作
+[2021-11-27 15:37:57,358][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 15:37:59,646][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="3a2776ceacfcb4dad72f2e8bca170286")>] successed !
+[2021-11-27 15:38:01,847][base_page.py 49][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 15:38:04,851][close_popoup_page.py 37][INFO]: 没有找到弹窗进行后续操作
+[2021-11-27 16:02:17,015][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 16:02:19,308][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="03006368db25454d503f5cfc76aec468")>] successed !
+[2021-11-27 16:02:22,432][base_page.py 49][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 16:02:25,438][close_popoup_page.py 37][INFO]: 没有找到弹窗进行后续操作
+[2021-11-27 16:37:53,970][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 16:37:56,263][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="6c2246e7f4dcf5f9cc2b1b9ec360de73")>] successed !
+[2021-11-27 17:11:38,065][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:11:40,543][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="6cb00815a9a0c5270c4b0714dac2e8aa")>] successed !
+[2021-11-27 17:11:56,956][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:11:59,196][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="918770bb04f7dd45b1d856b2cacca461")>] successed !
+[2021-11-27 17:12:18,430][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:12:20,674][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="8368904d34167740070745fa9d8a979a")>] successed !
+[2021-11-27 17:14:55,980][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:14:58,248][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1f6237a521c0eef4e049d5e809941a6f")>] successed !
+[2021-11-27 17:15:25,474][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:15:27,750][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7fb6d9cd8b07f2f7df2f76e28ce64b1d")>] successed !
+[2021-11-27 17:33:06,662][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:33:09,075][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="8688846d32cf2b13785f6dd1f2337ee2")>] successed !
+[2021-11-27 17:34:05,141][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:34:07,480][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="dc3fc50679b57a2c12cd8ea5cddbbcb0")>] successed !
+[2021-11-27 17:36:05,159][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:36:07,521][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="4e388b6e900f7c360a3822dc5d517112")>] successed !
+[2021-11-27 17:39:07,155][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:39:09,525][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="353013eac968aae52e39e3a58d167a90")>] successed !
+[2021-11-27 17:39:22,561][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:39:24,799][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a3d0ebf523dd5a9db3c2ee5dd69d3d4a")>] successed !
+[2021-11-27 17:39:27,370][base_page.py 54][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 17:39:30,375][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-11-27 17:40:23,946][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:40:26,187][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5b92eb34cc254183fac93a79135f339d")>] successed !
+[2021-11-27 17:40:29,133][base_page.py 54][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 17:40:32,135][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-11-27 17:45:24,918][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 17:45:27,156][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="dfb54d78b9327715140297d44609e3d9")>] successed !
+[2021-11-27 17:45:29,773][base_page.py 54][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 17:45:32,778][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-11-27 18:06:19,304][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:06:21,734][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ccbe3fe3828587b56e5c486499c086fa")>] successed !
+[2021-11-27 18:06:33,943][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:06:36,138][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e6436861dd55e720f1f5faa9c39ab670")>] successed !
+[2021-11-27 18:07:00,298][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:07:02,665][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5a87612faf547e093be25a78c49034c9")>] successed !
+[2021-11-27 18:09:10,776][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:09:13,083][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2545d79282005c4e615a66be702135e8")>] successed !
+[2021-11-27 18:09:49,482][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:09:51,811][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="bd021542ece5385563ee168f00ce51c0")>] successed !
+[2021-11-27 18:10:25,819][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:10:28,179][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="0996e27d8bfbfbbf76e3c203af819747")>] successed !
+[2021-11-27 18:11:19,855][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:11:22,067][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5de7c8e525f634db5215e0f48fa318c7")>] successed !
+[2021-11-27 18:18:26,335][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:18:28,535][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="89a163a6c4584cf1d354426b78ffe917")>] successed !
+[2021-11-27 18:18:28,537][read_config.py 54][INFO]: 获取到ini文件数据
+[2021-11-27 18:19:30,273][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:19:32,492][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7e9ec6a68d8caed5d1f8737690e1c68d")>] successed !
+[2021-11-27 18:19:32,499][read_config.py 54][INFO]: 获取到ini文件数据
+[2021-11-27 18:20:24,464][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:20:26,693][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="704e1be9cfca75909cf9fceec864995b")>] successed !
+[2021-11-27 18:20:52,935][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:20:55,294][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c45dbeb29147c0e4f15bda28b9df607c")>] successed !
+[2021-11-27 18:20:55,303][read_config.py 54][INFO]: 获取到ini文件数据
+[2021-11-27 18:20:55,322][read_config.py 54][INFO]: 获取到ini文件数据
+[2021-11-27 18:22:29,714][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:22:31,996][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9304340673154499a6994c935479f2b3")>] successed !
+[2021-11-27 18:22:32,000][read_config.py 54][INFO]: 获取到ini文件数据
+[2021-11-27 18:22:32,038][read_config.py 54][INFO]: 获取到ini文件数据
+[2021-11-27 18:22:34,263][base_page.py 55][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 18:22:37,268][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-11-27 18:34:31,155][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:34:33,509][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="aefb9900868f06cdd265a3812cb46c25")>] successed !
+[2021-11-27 18:34:33,516][read_config.py 54][INFO]: 获取到ini文件数据
+[2021-11-27 18:34:35,660][base_page.py 55][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 18:34:38,661][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-11-27 18:37:53,041][Driver.py 22][INFO]: 获取到当前操作系统为Darwin
+[2021-11-27 18:37:55,337][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="cd86d5ccdf49198fe9806b1a436c44e7")>] successed !
+[2021-11-27 18:37:55,363][read_config.py 54][INFO]: 获取到ini文件数据
+[2021-11-27 18:37:57,566][base_page.py 55][INFO]: https://localhost/main/index.html?~XQIIBARUDgZSWgFQHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9TBg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-11-27 18:38:00,570][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作

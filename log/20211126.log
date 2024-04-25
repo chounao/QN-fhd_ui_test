@@ -1,0 +1,77 @@
+[2021-11-26 15:42:21,506][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 15:42:24,241][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a1365f2f6478c4ddd39aef9219e5ae80")>] successed !
+[2021-11-26 15:42:45,321][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 15:42:48,433][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c50bcd5bdb5ebc0baa7b416dec84806b")>] successed !
+[2021-11-26 15:45:31,149][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 15:45:33,525][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c45e9f604af4d7679951389b44297ef5")>] successed !
+[2021-11-26 15:47:15,056][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 15:47:17,296][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="293daf7e69c5b2fa515e6301fb4b630c")>] successed !
+[2021-11-26 15:47:40,912][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 15:47:44,731][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ec5f7c61c1be79a07785e625fe26223e")>] successed !
+[2021-11-26 15:57:09,747][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 15:57:11,990][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="207cc191d8dc5478f49e8ceff336a30b")>] successed !
+[2021-11-26 15:57:28,659][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 15:57:31,698][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2c3c4d4216ac90525a51be6d424a0ea2")>] successed !
+[2021-11-26 15:57:52,180][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 15:57:55,053][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="00ba8822125d50b64dc087e5c5e7062e")>] successed !
+[2021-11-26 15:59:57,771][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:00:02,269][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c995a7642674850712b7e94b1020b5ca")>] successed !
+[2021-11-26 16:04:34,827][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:04:36,914][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c4c993deb22396a6866c3b99f654af17")>] successed !
+[2021-11-26 16:06:48,135][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:06:51,146][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ded81bf1757c5e3b9a3e3ea2b21cd83d")>] successed !
+[2021-11-26 16:07:37,656][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:07:39,914][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="87d6c0ab89ca377db7b3e10ebbac1eda")>] successed !
+[2021-11-26 16:10:39,107][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:10:41,666][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7540ad708402a24c6e93ba4502547af1")>] successed !
+[2021-11-26 16:11:55,495][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:11:58,060][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="49ecc42efe45a4f2ea0e5c437afa4c01")>] successed !
+[2021-11-26 16:12:18,407][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:12:20,539][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7e548df61c5f3b59b31b3a77d8d1b762")>] successed !
+[2021-11-26 16:16:17,031][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:16:19,273][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a35392cba817e3b3d08798b76ab274ce")>] successed !
+[2021-11-26 16:17:18,822][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:17:21,281][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9a3839955ea689d2192fc4145cb120c8")>] successed !
+[2021-11-26 16:18:55,702][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:18:58,562][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1f2cb016a341a4d0a2641c4642741097")>] successed !
+[2021-11-26 16:19:25,143][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:19:27,362][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="87ae074f5902740e289d4fadfe48616d")>] successed !
+[2021-11-26 16:25:04,646][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:25:07,132][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:25:09,231][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7c2d455a39116d2ae40c174b595b4169")>] successed !
+[2021-11-26 16:26:27,124][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:26:29,265][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="81bf00b6055c216b8a7f8373c6b6eded")>] successed !
+[2021-11-26 16:27:45,213][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:27:47,344][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="fa0408ec9e54d63deed5326a2169506c")>] successed !
+[2021-11-26 16:28:09,521][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:28:11,590][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a0dabcb9724a870d3b163681f2a0ae37")>] successed !
+[2021-11-26 16:29:04,999][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:29:07,337][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="d00aa8fdff8bfdaba0f7cd60196e9d36")>] successed !
+[2021-11-26 16:34:40,521][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:34:42,918][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="75f15ca128df049ebe32984c9f16bc87")>] successed !
+[2021-11-26 16:35:02,166][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:35:05,053][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="081c12d47e542f3281dfeb9cb71aed47")>] successed !
+[2021-11-26 16:35:16,292][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 16:35:19,517][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="82fa0bf05a6fb59df73ab55ef11e8cb6")>] successed !
+[2021-11-26 17:16:18,992][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:16:21,251][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e640cee6d996883169cdba240ba4729e")>] successed !
+[2021-11-26 17:16:33,622][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:16:38,319][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9d0cd24cc96c2777881e3738b9583aaa")>] successed !
+[2021-11-26 17:17:22,919][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:17:25,142][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="cbf82f1b4969e794c4d582540f35b3a0")>] successed !
+[2021-11-26 17:18:37,292][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:18:39,841][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="f953bb1e3ea2264f7438a225ead3cfae")>] successed !
+[2021-11-26 17:28:18,252][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:28:20,539][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a885de85123c69d0547807602a596738")>] successed !
+[2021-11-26 17:30:32,525][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:30:35,043][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="8902a09f430484ee9555a24b47b62f17")>] successed !
+[2021-11-26 17:30:52,537][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:30:58,338][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="6f89cd6a6429e2d0bb4f9ec4b3e96271")>] successed !
+[2021-11-26 17:32:43,119][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:32:46,225][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="98a07e5533aa3fddb5f8eccd95adce41")>] successed !
+[2021-11-26 17:34:45,278][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:34:47,602][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ec026483608ac3b2be08198c37500c4b")>] successed !
+[2021-11-26 17:49:01,582][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:49:04,093][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a29901074e9d832fc335bb77aeba5833")>] successed !
+[2021-11-26 17:51:14,334][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-26 17:51:17,492][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="96be3b6ebffd3ef9bf714d761e2bdaea")>] successed !

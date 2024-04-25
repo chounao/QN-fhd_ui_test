@@ -1,0 +1,5 @@
+[2021-11-22 10:13:21,985][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-11-22 10:13:24,239][Driver.py 34][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="63814b16b323598a36df4feb49d35633")>] successed !
+[2021-11-22 10:13:30,741][base_page.py 45][INFO]: Chrome浏览器没有设置cookie
+[2021-11-22 10:13:33,120][base_page.py 48][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-22 10:13:41,175][close_popoup.py 63][INFO]: 找不到弹窗

@@ -1,0 +1,519 @@
+[2021-12-02 11:18:58,887][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:19:01,230][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="31c4cb8e008d5f8c282dc93f53755279")>] successed !
+[2021-12-02 11:19:01,232][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:19:07,814][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:19:10,360][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:19:13,370][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:19:39,735][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:19:43,211][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b58da44629b77eb042345b346fbdd4e7")>] successed !
+[2021-12-02 11:19:43,213][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:19:49,674][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:19:52,183][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:19:55,185][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:20:11,931][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:20:14,678][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="6489e16c3351aa95e95b65557b5c3e96")>] successed !
+[2021-12-02 11:20:14,680][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:20:20,983][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:20:23,494][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:20:26,507][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:22:39,881][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:22:43,133][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="414bb4f3ffb28a5712033ae3cbd0c0a7")>] successed !
+[2021-12-02 11:22:43,136][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:22:49,449][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:22:52,054][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:22:55,066][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:24:07,731][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:24:10,611][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a63901c29e26e69bf5235948c8338814")>] successed !
+[2021-12-02 11:24:10,613][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:24:17,208][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:24:19,928][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:24:22,931][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:24:59,560][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:25:03,173][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="d86b15d0353c78622af03d2a966330c5")>] successed !
+[2021-12-02 11:25:03,175][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:25:09,633][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:25:12,316][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:25:15,327][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:25:51,311][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:26:09,266][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:30:04,207][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:30:07,223][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="0c817a7fe0f36542566228bd6e8bdb28")>] successed !
+[2021-12-02 11:30:18,574][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:30:22,133][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1990c67eff7fd54f9c28064e0afd734d")>] successed !
+[2021-12-02 11:30:22,136][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:30:28,520][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:30:31,116][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:30:34,122][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:33:55,818][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:33:58,712][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="887902f7b7db8a1fdb4baff8377a1ac6")>] successed !
+[2021-12-02 11:33:58,715][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:34:05,143][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:34:07,718][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:34:10,719][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:34:10,772][base_page.py 187][INFO]: 元素查找成功:automatic_switch
+[2021-12-02 11:34:10,773][automatic_evaluation_page.py 14][INFO]: [<selenium.webdriver.remote.webelement.WebElement (session="887902f7b7db8a1fdb4baff8377a1ac6", element="0411a6f2-d4cc-4264-b0ff-e0e6c4163f92")>]
+[2021-12-02 11:34:52,803][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:34:55,037][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="75795ed8b23f9f4c47212c17e119f1ec")>] successed !
+[2021-12-02 11:43:27,759][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:43:31,351][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c26e98a8a0138b9561e700e210bbe855")>] successed !
+[2021-12-02 11:43:31,354][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:43:37,873][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:43:40,377][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:43:43,385][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:43:43,452][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="c26e98a8a0138b9561e700e210bbe855", element="5414c96e-ed00-45c7-9d00-e7f76c811a05")>
+[2021-12-02 11:44:17,205][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:44:19,886][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="298229164397761dbcf4413881b6b53d")>] successed !
+[2021-12-02 11:44:19,888][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:44:26,257][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:44:28,731][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:44:31,733][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:44:31,838][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="298229164397761dbcf4413881b6b53d", element="db0e6d13-2eff-4e62-b6d5-ed818cbc4aa6")>
+[2021-12-02 11:44:31,872][automatic_evaluation_page.py 19][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="298229164397761dbcf4413881b6b53d", element="2331c1ee-f7ee-46f8-8063-6d61b4bdc02b")>
+[2021-12-02 11:45:05,500][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:45:08,678][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="50eb64b4f2e27f3696a67f84003687a1")>] successed !
+[2021-12-02 11:45:08,680][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:45:15,318][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:45:17,864][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:45:20,871][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:45:21,061][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="50eb64b4f2e27f3696a67f84003687a1", element="184a9cd9-7a4e-413f-af03-4943765b40f3")>
+[2021-12-02 11:45:21,194][automatic_evaluation_page.py 19][INFO]: 自动评价
+[2021-12-02 11:48:06,159][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:48:08,736][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="eddcca3ea6c2a28fb2ca58697c0eb1d2")>] successed !
+[2021-12-02 11:48:08,737][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:48:15,563][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:48:18,073][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:48:21,074][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:48:21,138][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="eddcca3ea6c2a28fb2ca58697c0eb1d2", element="47619c3b-f8a8-4d80-afdc-39830d97c0ce")>
+[2021-12-02 11:49:34,597][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:49:37,862][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="0784b98d473f9a88943d7cd47ef04f67")>] successed !
+[2021-12-02 11:49:37,864][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:49:44,285][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:49:46,783][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:49:49,792][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:49:49,855][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="0784b98d473f9a88943d7cd47ef04f67", element="a7519be2-e2e1-4c68-b2fa-51e57ac70685")>
+[2021-12-02 11:51:17,804][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:51:20,028][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="356195dd34b03f1025d3bfe1f7ebcc34")>] successed !
+[2021-12-02 11:51:20,030][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:51:26,325][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:51:28,817][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:51:31,823][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:51:31,940][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="356195dd34b03f1025d3bfe1f7ebcc34", element="3f49d651-0f7c-47ee-9494-cafd2634f9e6")>
+[2021-12-02 11:51:43,516][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:51:47,719][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="027b038fdd105c7ec4b803eaff9b7539")>] successed !
+[2021-12-02 11:51:47,721][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:51:54,333][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:51:54,349][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:51:57,352][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:51:58,879][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="027b038fdd105c7ec4b803eaff9b7539", element="9a5d04ba-d7f3-4937-8706-78ca2b206707")>
+[2021-12-02 11:53:42,041][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:53:45,361][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5e6cc554b48326145e4ec6cdbcd452e8")>] successed !
+[2021-12-02 11:53:45,363][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:53:52,107][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:53:54,767][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:53:57,773][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:53:57,863][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="5e6cc554b48326145e4ec6cdbcd452e8", element="6cba2af2-4918-44ac-b2db-28147972bdb1")>
+[2021-12-02 11:57:01,742][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:57:04,072][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2abc54ecd4affd738cbf9bb56a0e1aeb")>] successed !
+[2021-12-02 11:57:04,074][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:57:10,702][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:57:13,254][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:57:16,267][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:57:16,655][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="2abc54ecd4affd738cbf9bb56a0e1aeb", element="d7ff65af-636a-46ad-addf-38ab440f9c5f")>
+[2021-12-02 11:57:16,810][automatic_evaluation_page.py 25][INFO]: 已开启
+[2021-12-02 11:58:24,956][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 11:58:27,362][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7a6a1d058f986f08cba6e29a36c08d2a")>] successed !
+[2021-12-02 11:58:27,364][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 11:58:33,593][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 11:58:36,190][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 11:58:39,201][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 11:58:39,263][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="7a6a1d058f986f08cba6e29a36c08d2a", element="be2c2ec5-8575-4f92-ad95-fd4191c83c11")>
+[2021-12-02 11:58:39,321][automatic_evaluation_page.py 24][INFO]: 已关闭
+[2021-12-02 12:00:50,282][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 12:00:52,960][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="28a999e53fd18536d94daa7b756f4737")>] successed !
+[2021-12-02 12:00:52,961][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 12:01:08,379][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 12:01:10,725][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1d31b71d2c00c235d53ab4081b33a4b8")>] successed !
+[2021-12-02 12:01:10,727][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 12:01:17,022][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 12:01:19,604][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 12:01:22,607][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 12:01:23,579][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="1d31b71d2c00c235d53ab4081b33a4b8", element="2ef78a4b-5117-4fe8-bdec-44d85d9338ac")>
+[2021-12-02 12:04:06,110][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 12:04:08,657][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e1b12f8b79bec8565d46ac075f44242c")>] successed !
+[2021-12-02 13:50:52,380][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 13:50:55,139][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b343d3ba46eb5c8c68c49c73a33a63c6")>] successed !
+[2021-12-02 13:50:55,142][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 13:51:01,875][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 13:51:04,494][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 13:51:07,509][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 13:51:07,878][automatic_evaluation_page.py 43][INFO]: 获取到中差评提醒模块
+[2021-12-02 13:51:07,930][automatic_evaluation_page.py 49][INFO]: 中差评提醒
+[2021-12-02 13:52:53,905][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 13:52:56,746][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="93bc42b212fe12de85af69b2549ccf46")>] successed !
+[2021-12-02 13:52:56,748][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 13:53:03,198][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 13:53:05,811][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 13:53:08,816][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 13:53:09,000][automatic_evaluation_page.py 43][INFO]: 获取到中差评提醒模块
+[2021-12-02 13:53:09,067][automatic_evaluation_page.py 49][INFO]: 中差评提醒
+[2021-12-02 13:53:09,067][automatic_evaluation_page.py 114][INFO]: 中差评提醒操作失败
+[2021-12-02 13:53:48,511][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 13:53:51,153][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="938fe8d1a9e145dda2d4304beef54a6f")>] successed !
+[2021-12-02 13:53:51,155][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 13:53:57,552][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 13:53:59,601][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 13:54:15,771][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 13:54:18,008][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="bc17917928a482677fdfc04223cd4a9f")>] successed !
+[2021-12-02 13:54:18,010][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 13:54:24,425][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 13:54:26,952][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 13:54:29,962][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 13:54:30,044][automatic_evaluation_page.py 43][INFO]: 获取到中差评提醒模块
+[2021-12-02 13:54:30,106][automatic_evaluation_page.py 49][INFO]: 中差评提醒
+[2021-12-02 13:54:30,106][automatic_evaluation_page.py 114][INFO]: 中差评提醒操作失败
+[2021-12-02 13:55:20,447][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 13:55:24,006][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7d90aa3db9addfeb5ffd3d54456e740c")>] successed !
+[2021-12-02 13:55:24,008][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 13:55:30,407][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 13:55:32,909][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 13:55:35,912][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 13:55:36,455][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="7d90aa3db9addfeb5ffd3d54456e740c", element="6e03241f-7089-43a5-8a6f-abd26e2ed3d3")>
+[2021-12-02 13:55:36,535][automatic_evaluation_page.py 20][INFO]: 自动评价
+[2021-12-02 13:56:26,923][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 13:56:30,005][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="54db19cbb2f5141eb1a70e46fcbb4aaa")>] successed !
+[2021-12-02 13:56:30,007][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 13:56:36,190][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 13:56:38,670][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 13:56:41,672][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 13:56:42,021][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="54db19cbb2f5141eb1a70e46fcbb4aaa", element="475b3aae-c065-4b1d-9bfe-521da336c5bf")>
+[2021-12-02 13:56:42,117][automatic_evaluation_page.py 20][INFO]: 自动评价
+[2021-12-02 13:57:19,759][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 13:57:23,220][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="6c4422a3b9fd8b35ab1b24b8805c9f98")>] successed !
+[2021-12-02 13:57:23,222][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 13:57:30,145][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 13:57:32,679][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 13:57:35,692][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 13:57:35,760][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="6c4422a3b9fd8b35ab1b24b8805c9f98", element="39a83c52-9f03-496d-b6bc-59afd3d000ad")>
+[2021-12-02 13:57:35,811][automatic_evaluation_page.py 20][INFO]: 自动评价
+[2021-12-02 13:57:35,813][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 13:57:41,489][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 13:57:44,003][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 13:57:47,008][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 13:57:47,050][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="6c4422a3b9fd8b35ab1b24b8805c9f98", element="a7967f9a-f891-49ea-adf7-cb4c57bf82f4")>
+[2021-12-02 13:57:47,068][automatic_evaluation_page.py 26][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="6c4422a3b9fd8b35ab1b24b8805c9f98", element="5a423f99-9ab5-4115-9bcf-4da9182c0243")>
+[2021-12-02 14:00:40,293][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:00:42,581][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5fbb2cd3476c87f7d565e8a6110fd7f9")>] successed !
+[2021-12-02 14:00:42,583][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:00:48,728][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:00:51,295][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:00:54,311][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:00:54,471][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="5fbb2cd3476c87f7d565e8a6110fd7f9", element="29347266-660d-4cb6-ac5f-16cd2191fb24")>
+[2021-12-02 14:00:54,553][automatic_evaluation_page.py 20][INFO]: 自动评价
+[2021-12-02 14:00:54,555][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:00:59,956][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:00:59,973][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:01:02,983][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:01:05,372][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="5fbb2cd3476c87f7d565e8a6110fd7f9", element="a3c7360c-8c0e-43dd-9023-915f4e76e3e6")>
+[2021-12-02 14:01:05,386][automatic_evaluation_page.py 26][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="5fbb2cd3476c87f7d565e8a6110fd7f9", element="b34b08c8-c0aa-4bfb-adbf-7e3bb43d2579")>
+[2021-12-02 14:01:05,454][automatic_evaluation_page.py 75][INFO]: 自动评价成功开启
+[2021-12-02 14:02:47,390][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:02:50,954][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="484b454f40b6db459a73c049fcabd910")>] successed !
+[2021-12-02 14:02:50,956][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:02:57,338][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:02:59,836][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:03:02,852][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:03:02,915][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="484b454f40b6db459a73c049fcabd910", element="bafc4b03-b817-482d-9bff-8e05d808c745")>
+[2021-12-02 14:03:02,982][automatic_evaluation_page.py 20][INFO]: 自动评价
+[2021-12-02 14:03:03,022][automatic_evaluation_page.py 13][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="484b454f40b6db459a73c049fcabd910", element="bafc4b03-b817-482d-9bff-8e05d808c745")>
+[2021-12-02 14:03:03,041][automatic_evaluation_page.py 26][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="484b454f40b6db459a73c049fcabd910", element="59e4f407-dc33-41a1-88c0-20c79c82ee1b")>
+[2021-12-02 14:03:03,764][automatic_evaluation_page.py 33][INFO]: 获取到弹窗
+[2021-12-02 14:03:04,388][base_page.py 249][INFO]: 点击元素成功ant-btn-primary
+[2021-12-02 14:03:04,389][automatic_evaluation_page.py 38][INFO]: 点击确定按钮
+[2021-12-02 14:03:04,389][automatic_evaluation_page.py 86][INFO]: 自动评价已经关闭
+[2021-12-02 14:04:24,922][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:04:27,263][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2b280c9baa7dada3b540d67191ee27af")>] successed !
+[2021-12-02 14:04:27,265][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:04:33,418][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:04:36,005][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:04:39,018][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:04:39,127][automatic_evaluation_page.py 19][INFO]: 自动评价
+[2021-12-02 14:04:39,287][automatic_evaluation_page.py 73][INFO]: 自动评价成功开启
+[2021-12-02 14:04:48,301][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:04:51,074][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="4d8fb8e92f42cbcbeb0dc7b730eae87e")>] successed !
+[2021-12-02 14:04:51,076][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:04:57,524][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:05:00,073][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:05:03,074][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:05:03,288][automatic_evaluation_page.py 19][INFO]: 自动评价
+[2021-12-02 14:05:04,276][automatic_evaluation_page.py 31][INFO]: 获取到弹窗
+[2021-12-02 14:05:04,909][base_page.py 249][INFO]: 点击元素成功ant-btn-primary
+[2021-12-02 14:05:04,910][automatic_evaluation_page.py 36][INFO]: 点击确定按钮
+[2021-12-02 14:05:04,911][automatic_evaluation_page.py 84][INFO]: 自动评价已经关闭
+[2021-12-02 14:07:56,476][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:07:58,729][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="817d6cf7e7c432d77e4d9972e24cb570")>] successed !
+[2021-12-02 14:07:58,731][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:08:04,893][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:08:07,412][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:08:10,425][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:08:10,490][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:08:10,540][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:08:10,611][automatic_evaluation_page.py 51][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="817d6cf7e7c432d77e4d9972e24cb570", element="19b71197-a6be-4cb1-8bce-f25de1c72a9e")>
+[2021-12-02 14:08:10,682][automatic_evaluation_page.py 51][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="817d6cf7e7c432d77e4d9972e24cb570", element="19b71197-a6be-4cb1-8bce-f25de1c72a9e")>
+[2021-12-02 14:08:10,801][automatic_evaluation_page.py 51][INFO]: <selenium.webdriver.remote.webelement.WebElement (session="817d6cf7e7c432d77e4d9972e24cb570", element="19b71197-a6be-4cb1-8bce-f25de1c72a9e")>
+[2021-12-02 14:08:14,484][base_page.py 144][ERROR]: 查找元素超时:ant-modal-content
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\base_page.py", line 123, in find_element
+    EC.visibility_of(self.driver.find_element_by_class_name(value)))
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 760, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1244, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".ant-modal-content"}
+  (Session info: chrome=95.0.4638.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00A13AB3+2505395]
+	Ordinal0 [0x009AAE41+2076225]
+	Ordinal0 [0x008B2498+1057944]
+	Ordinal0 [0x008DCB74+1231732]
+	Ordinal0 [0x00906D92+1404306]
+	Ordinal0 [0x008F5A2A+1333802]
+	Ordinal0 [0x00905168+1397096]
+	Ordinal0 [0x008F58BB+1333435]
+	Ordinal0 [0x008D23E4+1188836]
+	Ordinal0 [0x008D323F+1192511]
+	GetHandleVerifier [0x00B9CB36+1554566]
+	GetHandleVerifier [0x00C44A0C+2242396]
+	GetHandleVerifier [0x00AA0E0B+523099]
+	GetHandleVerifier [0x00A9FEB0+519168]
+	Ordinal0 [0x009B02FD+2097917]
+	Ordinal0 [0x009B4388+2114440]
+	Ordinal0 [0x009B44C2+2114754]
+	Ordinal0 [0x009BE041+2154561]
+	BaseThreadInitThunk [0x7543FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x775C7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x775C7A6E+238]
+
+[2021-12-02 14:08:14,523][automatic_evaluation_page.py 121][INFO]: 一键开启操作失败
+[2021-12-02 14:10:02,974][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:10:05,499][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="00a76a62b22a41520db6f65f307100e4")>] successed !
+[2021-12-02 14:10:05,500][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:10:11,755][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:10:14,369][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:10:17,374][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:10:17,641][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:10:17,718][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:10:21,732][base_page.py 144][ERROR]: 查找元素超时:ant-modal-content
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\base_page.py", line 123, in find_element
+    EC.visibility_of(self.driver.find_element_by_class_name(value)))
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 760, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1244, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 424, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Think\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".ant-modal-content"}
+  (Session info: chrome=95.0.4638.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00A13AB3+2505395]
+	Ordinal0 [0x009AAE41+2076225]
+	Ordinal0 [0x008B2498+1057944]
+	Ordinal0 [0x008DCB74+1231732]
+	Ordinal0 [0x00906D92+1404306]
+	Ordinal0 [0x008F5A2A+1333802]
+	Ordinal0 [0x00905168+1397096]
+	Ordinal0 [0x008F58BB+1333435]
+	Ordinal0 [0x008D23E4+1188836]
+	Ordinal0 [0x008D323F+1192511]
+	GetHandleVerifier [0x00B9CB36+1554566]
+	GetHandleVerifier [0x00C44A0C+2242396]
+	GetHandleVerifier [0x00AA0E0B+523099]
+	GetHandleVerifier [0x00A9FEB0+519168]
+	Ordinal0 [0x009B02FD+2097917]
+	Ordinal0 [0x009B4388+2114440]
+	Ordinal0 [0x009B44C2+2114754]
+	Ordinal0 [0x009BE041+2154561]
+	BaseThreadInitThunk [0x7543FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x775C7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x775C7A6E+238]
+
+[2021-12-02 14:10:21,737][automatic_evaluation_page.py 120][INFO]: 一键开启操作失败
+[2021-12-02 14:12:00,076][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:12:02,882][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="6e6eca0113db55c81931d921b532aede")>] successed !
+[2021-12-02 14:12:02,884][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:12:09,234][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:12:11,773][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:12:14,788][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:12:14,866][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:12:14,931][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:12:15,966][automatic_evaluation_page.py 119][INFO]: 一键开启操作失败
+[2021-12-02 14:13:28,102][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:13:30,287][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b2bc035509e0a8c36c13ca551d3dcdcd")>] successed !
+[2021-12-02 14:13:30,289][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:13:36,458][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:13:38,951][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:13:41,964][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:13:42,080][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:13:42,188][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:13:43,246][automatic_evaluation_page.py 31][INFO]: 获取到弹窗
+[2021-12-02 14:13:43,864][base_page.py 249][INFO]: 点击元素成功ant-btn-primary
+[2021-12-02 14:13:43,865][automatic_evaluation_page.py 36][INFO]: 点击确定按钮
+[2021-12-02 14:13:43,865][automatic_evaluation_page.py 100][INFO]: 中差评提醒成功关闭
+[2021-12-02 14:13:43,991][automatic_evaluation_page.py 121][INFO]: 中差评提醒操作失败
+[2021-12-02 14:14:03,123][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:14:06,308][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7c589e34382865649038e8e026783dbc")>] successed !
+[2021-12-02 14:14:06,310][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:14:12,741][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:14:15,300][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:14:18,304][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:14:18,388][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:14:18,461][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:14:19,641][automatic_evaluation_page.py 119][INFO]: 一键开启操作失败
+[2021-12-02 14:16:15,157][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:16:17,385][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a24b9dde00a487b5a31cd5963aad6cbb")>] successed !
+[2021-12-02 14:16:17,386][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:16:23,668][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:16:26,192][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:16:29,193][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:16:40,060][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:16:42,447][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9b21cdb82ae67b651cf2faf2d33fb0ff")>] successed !
+[2021-12-02 14:16:42,449][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:16:48,689][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:16:51,266][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:16:54,280][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:16:54,588][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:16:54,689][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:16:54,771][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:16:54,931][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:16:55,126][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:16:55,914][automatic_evaluation_page.py 119][INFO]: 一键开启操作失败
+[2021-12-02 14:18:08,222][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:18:10,427][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="f24e62398300c09e447869367a112e8c")>] successed !
+[2021-12-02 14:18:10,428][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:18:16,738][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:18:19,266][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:18:22,279][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:18:22,541][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:18:22,626][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:18:22,682][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:18:22,824][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:18:23,036][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:18:23,836][automatic_evaluation_page.py 119][INFO]: 一键开启操作失败
+[2021-12-02 14:19:23,298][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:19:26,632][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="4f7bc335e0add7fad3294eee2163a83f")>] successed !
+[2021-12-02 14:19:26,634][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:19:33,025][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:19:35,524][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:19:38,544][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:19:38,668][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:19:38,787][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:19:38,863][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:19:39,010][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:19:39,369][automatic_evaluation_page.py 107][INFO]: 中差评提醒成功开启
+[2021-12-02 14:19:39,447][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:19:39,646][automatic_evaluation_page.py 121][INFO]: 中差评提醒操作失败
+[2021-12-02 14:52:04,687][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:52:08,263][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2a93c8e191526b4c748029341ae460bc")>] successed !
+[2021-12-02 14:52:08,266][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:52:15,265][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:52:17,859][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:52:20,870][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:52:20,950][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:52:21,015][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:52:21,068][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:52:21,214][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:52:21,513][automatic_evaluation_page.py 109][INFO]: 中差评提醒成功开启
+[2021-12-02 14:52:21,630][automatic_evaluation_page.py 40][INFO]: 获取到中差评提醒模块
+[2021-12-02 14:54:10,002][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:54:14,894][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c92037c58bb5d9cc8548aaaae54c8453")>] successed !
+[2021-12-02 14:54:14,896][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:54:21,564][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:54:24,132][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:54:27,148][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:54:27,518][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:54:28,553][base_page.py 249][INFO]: 点击元素成功ant-btn-primary
+[2021-12-02 14:54:28,554][automatic_evaluation_page.py 36][INFO]: 点击确定按钮
+[2021-12-02 14:54:28,554][automatic_evaluation_page.py 100][INFO]: 中差评提醒成功关闭
+[2021-12-02 14:54:46,182][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:54:49,258][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="adc6f76459ce7023d71c69d13624659d")>] successed !
+[2021-12-02 14:54:49,261][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:54:55,698][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:54:58,246][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:55:01,259][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:55:02,400][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:55:03,623][automatic_evaluation_page.py 119][INFO]: 一键开启操作失败
+[2021-12-02 14:56:54,584][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 14:56:56,890][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5c35c0321a9fadc012978295dbef4fb6")>] successed !
+[2021-12-02 14:56:56,892][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 14:57:03,187][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 14:57:05,711][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 14:57:08,722][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 14:57:09,074][automatic_evaluation_page.py 46][INFO]: 中差评提醒
+[2021-12-02 14:57:10,620][automatic_evaluation_page.py 119][INFO]: 一键开启操作失败
+[2021-12-02 15:00:07,324][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 15:00:10,091][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ad40eb0f6b36da1b5e476a0b65aa474a")>] successed !
+[2021-12-02 15:00:10,093][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 15:00:16,332][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 15:00:18,918][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 15:00:21,927][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 15:00:22,413][automatic_evaluation_page.py 44][INFO]: 中差评提醒
+[2021-12-02 15:00:24,219][automatic_evaluation_page.py 112][INFO]: 一键开启操作失败
+[2021-12-02 15:00:37,949][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 15:00:40,626][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="0b38e51f7c80512f89a27a343cf57cbd")>] successed !
+[2021-12-02 15:00:40,632][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 15:00:47,119][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 15:00:49,608][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 15:00:52,617][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 15:00:53,540][automatic_evaluation_page.py 44][INFO]: 中差评提醒
+[2021-12-02 15:02:30,603][automatic_evaluation_page.py 112][INFO]: 一键开启操作失败
+[2021-12-02 15:05:34,711][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 15:05:37,550][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="8aa4913f29ffe619e0482d18dfce4f43")>] successed !
+[2021-12-02 15:05:37,552][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 15:05:43,796][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 15:05:46,559][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 15:05:49,563][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 15:05:49,915][automatic_evaluation_page.py 44][INFO]: 中差评提醒
+[2021-12-02 15:05:52,315][automatic_evaluation_page.py 113][INFO]: 一键开启操作失败
+[2021-12-02 15:07:03,521][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 15:07:06,716][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c35c3d2fc216c1145ecec155bacf7b7e")>] successed !
+[2021-12-02 15:07:06,718][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 15:07:13,180][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 15:07:15,799][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 15:07:18,802][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 15:07:19,091][automatic_evaluation_page.py 44][INFO]: 中差评提醒
+[2021-12-02 15:07:20,795][automatic_evaluation_page.py 116][INFO]: 一键开启操作失败
+[2021-12-02 15:12:36,623][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 15:12:39,192][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="bfd2e8d328fe1bd3427acd8e29e7a55a")>] successed !
+[2021-12-02 15:12:39,194][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 15:12:45,399][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 15:12:47,922][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 15:12:50,935][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 15:12:51,426][automatic_evaluation_page.py 44][INFO]: 中差评提醒
+[2021-12-02 15:12:53,506][automatic_evaluation_page.py 117][INFO]: 一键开启操作失败
+[2021-12-02 15:13:51,560][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 15:13:54,824][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2ed9aa200a856f169813d8eb6bdfe96a")>] successed !
+[2021-12-02 15:13:54,826][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 15:14:01,124][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 15:14:03,976][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 15:14:06,986][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 15:14:07,472][automatic_evaluation_page.py 44][INFO]: 中差评提醒
+[2021-12-02 15:14:10,370][automatic_evaluation_page.py 29][INFO]: 获取到弹窗
+[2021-12-02 15:14:10,399][automatic_evaluation_page.py 57][INFO]: 点击一键开启按钮
+[2021-12-02 15:14:10,498][automatic_evaluation_page.py 113][INFO]: 中差评提醒和自动评价成功开启
+[2021-12-02 15:14:49,423][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 15:15:01,249][Driver.py 22][INFO]: 获取到当前操作系统为Windows
+[2021-12-02 15:15:04,947][Driver.py 35][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="cced6037a6c08a75169e06f3a1d807fe")>] successed !
+[2021-12-02 15:15:04,949][read_config.py 55][INFO]: 获取到ini文件数据
+[2021-12-02 15:15:11,955][base_page.py 52][INFO]: Chrome浏览器没有设置cookie
+[2021-12-02 15:15:14,473][base_page.py 55][INFO]: https://localhost/main/index.html?token=~UQkIBARbBwFQUAJVHwYDG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFNQBg0CAQEHCh6HhMTVtKTR66fQ39JcHFYO1qbOVAoVVlUDBA4BCQcLAldYNGVWfQZRBgVRVVYEVEx%2BczIkdHwVUX1HD1FYX0FaCE8nRUl1byRfRwENSh95eHpvPlF2Wy9SAg%3D%3D~1~#/v5/rateManage 正常打开url
+[2021-12-02 15:15:17,484][close_popoup_page.py 38][INFO]: 没有找到弹窗进行后续操作
+[2021-12-02 15:15:17,681][automatic_evaluation_page.py 44][INFO]: 中差评提醒
+[2021-12-02 15:15:20,236][automatic_evaluation_page.py 115][INFO]: 一键开启操作失败

@@ -1,0 +1,121 @@
+[2021-11-18 14:17:16,955][base_page.py 34][ERROR]: 'PopoupPage' object has no attribute 'driver'
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\base_page.py", line 30, in open
+    self.driver.get(url)
+AttributeError: 'PopoupPage' object has no attribute 'driver'
+[2021-11-18 14:17:49,472][base_page.py 34][ERROR]: 'PopoupPage' object has no attribute 'driver'
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\base_page.py", line 30, in open
+    self.driver.get(url)
+AttributeError: 'PopoupPage' object has no attribute 'driver'
+[2021-11-18 14:19:54,477][base_page.py 34][ERROR]: 'test_01' object has no attribute 'driver'
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\base_page.py", line 30, in open
+    self.driver.get(url)
+AttributeError: 'test_01' object has no attribute 'driver'
+[2021-11-18 14:22:00,663][base_page.py 40][ERROR]: 'test_01' object has no attribute 'driver'
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\base_page.py", line 30, in open
+    self.driver.get(url)
+AttributeError: 'test_01' object has no attribute 'driver'
+[2021-11-18 14:22:48,321][base_page.py 40][ERROR]: 'test_01' object has no attribute 'driver'
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\base_page.py", line 30, in open
+    self.driver.get(url)
+AttributeError: 'test_01' object has no attribute 'driver'
+[2021-11-18 14:25:59,167][base_page.py 40][ERROR]: 'test_01' object has no attribute 'driver'
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\base_page.py", line 30, in open
+    self.driver.get(url)
+AttributeError: 'test_01' object has no attribute 'driver'
+[2021-11-18 14:39:19,921][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="6c8f52f47cbf109a5022e4d90215a1fd")>] successed !
+[2021-11-18 14:45:48,067][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="3fb9882443c1bbad58c330b0eb6185be")>] successed !
+[2021-11-18 14:45:54,303][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 14:47:22,372][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="edbd43c84fa1d23d0bcae06f848b8a86")>] successed !
+[2021-11-18 14:47:28,432][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 14:49:08,286][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="55b2f6a6262e3de59feb5f43a77586c4")>] successed !
+[2021-11-18 14:49:14,235][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 14:51:35,655][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="591615ba5243bb2d5708bf824a477fdd")>] successed !
+[2021-11-18 14:51:39,440][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 14:51:45,429][close_popoup.py 59][ERROR]: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="systemNotice"]"}
+  (Session info: chrome=95.0.4638.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00AA3AB3+2505395]
+	Ordinal0 [0x00A3AE41+2076225]
+	Ordinal0 [0x00942498+1057944]
+	Ordinal0 [0x0096CB74+1231732]
+	Ordinal0 [0x00996D92+1404306]
+	Ordinal0 [0x00985A2A+1333802]
+	Ordinal0 [0x00995168+1397096]
+	Ordinal0 [0x009858BB+1333435]
+	Ordinal0 [0x009623E4+1188836]
+	Ordinal0 [0x0096323F+1192511]
+	GetHandleVerifier [0x00C2CB36+1554566]
+	GetHandleVerifier [0x00CD4A0C+2242396]
+	GetHandleVerifier [0x00B30E0B+523099]
+	GetHandleVerifier [0x00B2FEB0+519168]
+	Ordinal0 [0x00A402FD+2097917]
+	Ordinal0 [0x00A44388+2114440]
+	Ordinal0 [0x00A444C2+2114754]
+	Ordinal0 [0x00A4E041+2154561]
+	BaseThreadInitThunk [0x7646FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77307A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77307A6E+238]
+Traceback (most recent call last):
+  File "C:\Users\Think\Desktop\QN-fhd_ui_test\common\close_popoup.py", line 42, in close_Popoup
+    if self.driver.find_element_by_id("systemNotice"):
+  File "C:\Users\Think\QN_ui_test\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 466, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\Think\QN_ui_test\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1238, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\Think\QN_ui_test\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 418, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Think\QN_ui_test\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 243, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="systemNotice"]"}
+  (Session info: chrome=95.0.4638.54)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00AA3AB3+2505395]
+	Ordinal0 [0x00A3AE41+2076225]
+	Ordinal0 [0x00942498+1057944]
+	Ordinal0 [0x0096CB74+1231732]
+	Ordinal0 [0x00996D92+1404306]
+	Ordinal0 [0x00985A2A+1333802]
+	Ordinal0 [0x00995168+1397096]
+	Ordinal0 [0x009858BB+1333435]
+	Ordinal0 [0x009623E4+1188836]
+	Ordinal0 [0x0096323F+1192511]
+	GetHandleVerifier [0x00C2CB36+1554566]
+	GetHandleVerifier [0x00CD4A0C+2242396]
+	GetHandleVerifier [0x00B30E0B+523099]
+	GetHandleVerifier [0x00B2FEB0+519168]
+	Ordinal0 [0x00A402FD+2097917]
+	Ordinal0 [0x00A44388+2114440]
+	Ordinal0 [0x00A444C2+2114754]
+	Ordinal0 [0x00A4E041+2154561]
+	BaseThreadInitThunk [0x7646FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77307A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77307A6E+238]
+
+[2021-11-18 14:53:08,865][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1b68238e50e86771e59c5d29f0aa787e")>] successed !
+[2021-11-18 14:53:14,772][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 14:53:36,931][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b06091635eb44d5d8909db38a592b344")>] successed !
+[2021-11-18 14:53:42,945][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 14:54:46,565][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="180778beefdbdf6dcaa770b63144afba")>] successed !
+[2021-11-18 14:54:52,509][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 15:02:15,583][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="d152e85936b882fe8bee44cabc30abde")>] successed !
+[2021-11-18 15:02:21,535][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 15:04:10,162][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="387cac81e9457c36efa3e5f92645b713")>] successed !
+[2021-11-18 15:04:16,215][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 15:06:13,277][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="036d1c25e9c1f11825e96a7843816fcb")>] successed !
+[2021-11-18 15:06:20,238][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 15:07:25,049][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b6ec43365292f8e1c7b52a500ed4484c")>] successed !
+[2021-11-18 15:07:31,262][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 15:09:10,725][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b1dc7e43b7075ff26993de4cac3eff69")>] successed !
+[2021-11-18 15:09:14,292][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 15:09:22,352][close_popoup.py 64][INFO]: 找不到弹窗
+[2021-11-18 15:28:24,502][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="691108dd9bf5c582b1e21e81ee5a1340")>] successed !
+[2021-11-18 15:28:30,588][base_page.py 41][INFO]: https://localhost/main/index.html?token=~XAEIBARVDwJQUApQHwULG1ddDAxUVQoDAgEV04WShrTy1rGj09qGWx8HHxFBQVYbVFcJCFBSAAIGBgwCCR6HhMTVtKTR66fQ39JcHFYO1qbOVAsVVlUDBA4CCQZbAFRbKEFdfnAKQgANFgEJXnxgXFYDSwklDwYNZEN9BgoBAgEAA19EZjRAWQhWZQByBlgBJR9RWhYSBgc%3D~1~#/v5/rateManage 正常打开url
+[2021-11-18 15:28:38,739][close_popoup.py 64][INFO]: 找不到弹窗

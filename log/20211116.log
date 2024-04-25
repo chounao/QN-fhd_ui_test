@@ -1,0 +1,28 @@
+[2021-11-16 15:55:35,721][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="92d60ac93f3f63d539456009d18ab177")>] successed !
+[2021-11-16 15:55:38,558][close_popoup.py 28][INFO]: 打开网页 https://localhost/main/#/v5/rateManage
+[2021-11-16 15:55:40,593][close_popoup.py 43][INFO]: xxx
+[2021-11-16 16:00:24,882][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="84e682547daf102b88aafc4172c0201d")>] successed !
+[2021-11-16 16:00:28,005][close_popoup.py 28][INFO]: 打开网页 https://localhost/main/#/v5/rateManage
+[2021-11-16 16:00:30,025][close_popoup.py 43][INFO]: xxx
+[2021-11-16 16:04:03,476][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="781e6e9e6dd662e06bf543340591193d")>] successed !
+[2021-11-16 16:04:06,468][close_popoup.py 28][INFO]: 打开网页 https://localhost/main/#/v5/rateManage
+[2021-11-16 16:04:08,526][close_popoup.py 43][INFO]: xxx
+[2021-11-16 16:04:28,769][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="087e9c2ef4cb10e7b7de35228db767c1")>] successed !
+[2021-11-16 16:04:32,059][close_popoup.py 28][INFO]: 打开网页 https://localhost/main/#/v5/rateManage
+[2021-11-16 16:04:34,112][close_popoup.py 43][INFO]: xxx
+[2021-11-16 16:05:41,540][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="8b91496bdea44832291c3da80d22f55d")>] successed !
+[2021-11-16 16:06:06,924][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c32c99d8bf8dcde891e966bce9a038ba")>] successed !
+[2021-11-16 16:06:10,117][close_popoup.py 28][INFO]: 打开网页 https://localhost/main/#/v5/rateManage
+[2021-11-16 16:06:12,578][close_popoup.py 46][INFO]: xxx
+[2021-11-16 16:12:46,304][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="abca9ce048aec3e1c57f26512000398d")>] successed !
+[2021-11-16 16:12:49,131][close_popoup.py 28][INFO]: 打开网页 https://localhost/main/#/v5/rateManage
+[2021-11-16 16:12:53,580][close_popoup.py 46][INFO]: 没有弹窗
+[2021-11-16 16:13:28,598][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9140ccf3d112abba07314367aca07b28")>] successed !
+[2021-11-16 16:13:31,598][close_popoup.py 28][INFO]: 打开网页 https://localhost/main/#/v5/rateManage
+[2021-11-16 16:13:36,670][close_popoup.py 46][INFO]: 没有弹窗
+[2021-11-16 16:23:43,659][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e4f5e8a39122f5fda3dafd53a5653095")>] successed !
+[2021-11-16 16:23:46,451][close_popoup.py 29][INFO]: 打开网页 https://localhost/main/#/v5/rateManage
+[2021-11-16 16:24:14,285][close_popoup.py 46][INFO]: 没有弹窗
+[2021-11-16 16:35:03,974][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7b03e2af4c0561f64ea0bf801169eb33")>] successed !
+[2021-11-16 16:35:32,796][Driver.py 25][INFO]: found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9c2b526214bbedb0d0b03bf37b1024ae")>] successed !
+[2021-11-16 16:35:35,710][close_popoup.py 29][INFO]: 打开网页 https://localhost/main/#/v5/rateManage
